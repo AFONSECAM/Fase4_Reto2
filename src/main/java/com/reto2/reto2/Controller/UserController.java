@@ -2,6 +2,7 @@ package com.reto2.reto2.Controller;
 
 import com.reto2.reto2.Models.User;
 import com.reto2.reto2.Service.UserService;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
